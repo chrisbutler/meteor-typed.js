@@ -9,6 +9,6 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('0.9.0');
   api.use('jquery', 'client');
-  api.addFiles('typed.js', 'client');
+  api.addFiles('typed.js/js/typed.js', 'client');
   api.export('Typed', 'client');
 });

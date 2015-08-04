@@ -1,0 +1,3 @@
+[submodule "typed.js"]
+	path = typed.js
+	url = git@github.com:mattboldt/typed.js.git
